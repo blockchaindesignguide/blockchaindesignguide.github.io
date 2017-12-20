@@ -1,8 +1,5 @@
-@import url('https://rsms.me/inter/inter-ui.css');
-
 body {
     background-color: #F7FBFE;
-    font-family: 'Inter UI', sans-serif;
     color: #01033E;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
